@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.idea
+.pio
+CMakeLists.txt
+CMakeListsPrivate.txt
+**/ApplicationSecrets.h
+cmake-build-debug
+cmake-build-node
